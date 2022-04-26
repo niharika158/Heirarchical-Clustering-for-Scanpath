@@ -10,7 +10,7 @@ Compare the scanpaths of multiple participants and estimate a single common gaze
                Joseph H.Goldberg},
   title     = {Hierarchical Sequential Clustering},
   journal   = {Oracle International Corporation},
- 
-  year      = {2011},
- 
+  year      = {2011}
 }
+
+
